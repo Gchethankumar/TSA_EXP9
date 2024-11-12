@@ -1,8 +1,9 @@
+## Developed By : G Chethan Kumar
+## Register No : 212222240022
+## Date:
+
 # EX.NO.09        A project on Time series analysis on National Stock Exchange using ARIMA model 
 
-### Date: 
-### Developed by: G Chethan Kumar
-### Register number: 212222240022
 
 ### AIM:
 To Create a project on Time series analysis on Annual percentage change on India's GDP using ARIMA model in  Python and compare with other models.
